@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+:root {
+  --font-family: 'Bebas Neue', sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #1522aa 1.84%, #07414d 102.67%);
+  --gradient-bar: linear-gradient(103.22deg, #9ffa67 -13.86%, #30881a 99.55%);
+  
+  --color-bg: linear-gradient(135deg, rgba(236,219,19,1) 17%, rgba(198,222,23,1) 38%, rgba(170,228,18,1) 49%, rgba(103,228,32,0.9780287114845938) 76%);;
+  --color-footer : #2d0334;
+  --color-blog: #b5260a;
+  --color-text: #81AFDD;
+  --color-subtext: #97ff71;
+}
